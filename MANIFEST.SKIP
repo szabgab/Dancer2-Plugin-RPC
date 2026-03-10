@@ -4,6 +4,7 @@ Makefile$
 \.git/
 \.gitattribute
 \.gitignore
+.*\.bak
 blib/
 cover_db/
 example/example.+

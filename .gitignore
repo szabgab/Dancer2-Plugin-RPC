@@ -8,3 +8,6 @@ MYMETA.*
 META.*
 Makefile
 Makefile.bak
+MANIFEST
+MANIFEST.bak
+Dancer2-Plugin-RPC-*.tar.gz
